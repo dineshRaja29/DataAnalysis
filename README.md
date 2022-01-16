@@ -1,2 +1,2 @@
 # DataAnalysis
-Understand basics of Data Analysis from categorial data
+Understanding basics of Data Analysis from categorical data using two popular datasets; Iris dataset and Haberman dataset
